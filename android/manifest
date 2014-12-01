@@ -15,4 +15,4 @@ name: tts
 moduleid: ti.tts
 guid: 8b341cdd-299b-40cb-ac4d-40df72599a8f
 platform: android
-minsdk: 1.8.0.1
+minsdk: 2.1.3.GA
