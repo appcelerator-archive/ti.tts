@@ -4,6 +4,7 @@
 #
 version: 2.0
 apiversion: 2
+architectures: armeabi armeabi-v7a x86
 description: Text to Speech for Android.
 author: Dawson Toth
 license: Appcelerator Commercial License
